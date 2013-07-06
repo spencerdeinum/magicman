@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<item name="out" type="id">out</item></resources>
+<item name="takePictureButton" type="id">takePictureButton</item><item name="cardPreview" type="id">cardPreview</item>
+</resources>
